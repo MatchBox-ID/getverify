@@ -1,0 +1,126 @@
+body{
+    background: #000;
+}
+.dark{
+  padding:15px;
+  background: black;
+  color: white;
+  margin-top:10px;
+  margin-bottom:10px;
+  width: 75%;
+  border: 3px solid white;
+}
+.dark3{
+  padding:15px;
+  background: black;
+  color: white;
+  margin-top:10px;
+  margin-bottom:10px;
+  width: 75%;
+}
+.button {
+  padding:15px;
+  background: black;
+  color: white;
+  margin-top:10px;
+  margin-bottom:10px;
+  width: 75%;
+  border: 3px solid white;
+}
+.dark4{
+  padding:15px;
+  background: grey;
+  color: white;
+  margin-top:10px;
+  margin-bottom:10px;
+  width: 70%;
+}
+.dark2{
+  padding:15px;
+  background: black;
+  color: white;
+  margin-top:10px;
+  margin-bottom:10px;
+  width: 75%;
+  border: 3px solid white;
+}
+h1 {
+    font-family: Comfortaa;
+    color: white;
+}
+h2 {
+    font-family: Comfortaa;
+    color: white;
+}
+h3, h4, h5{
+    font-family: Comfortaa;
+    color: #666;
+    text-align: left;
+}
+p {
+    font-family: Comfortaa;
+    color: white;
+    font-weight: bold;
+}
+p2 {
+    font-family: Comfortaa;
+    color: #666;
+    font-weight: bold;
+}
+hr {
+    background-color: #666;
+    border: none;
+    height: 2px;
+    width: 85%;     
+}
+.button-69 {
+  background-color: initial;
+  background-image: linear-gradient(#4234F8 0, #4234F8 100%);
+  border-radius: 5px;
+  border-style: none;
+  box-shadow: rgba(245, 244, 247, .25) 0 1px 1px inset;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Inter, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  height: 60px;
+  line-height: 60px;
+  margin-left: -4px;
+  outline: 0;
+  text-align: center;
+  transition: all .3s cubic-bezier(.05, .03, .35, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: bottom;
+  width: 40%;
+}
+
+.button-69:hover {
+  opacity: .7;
+}
+
+@media screen and (max-width: 1000px) {
+  .button-69 {
+    font-size: 14px;
+    height: 55px;
+    line-height: 55px;
+    width: 40%;
+  }
+}
+.bi-check-circle-fill {
+    color: #25D366;
+}
+.bi-chat-left-text-fill, .fas {
+    color: #4234F8;
+    font-size: 60px;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
